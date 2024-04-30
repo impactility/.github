@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/impactility/.github/blob/main/profile/logo.svg" width="350"/>
+</div>
 ## Impactility 👋
 
 Climate Actions, Circularity, Regeneration and Technology
