@@ -1,9 +1,10 @@
 <div align="center">
 <img src="https://github.com/impactility/.github/blob/main/profile/Logo_Primary_Version.svg" width="350"/>
 </div>
-## Impactility 👋
-
+<br />
+<div align="center">
 Climate Actions, Circularity, Regeneration and Technology
+</div>
 <!--
 
 **Here are some ideas to get you started:**
