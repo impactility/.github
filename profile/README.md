@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/impactility/.github/blob/main/profile/logo.svg" width="350"/>
+<img src="https://github.com/impactility/.github/blob/main/profile/Logo_Primary_Version.svg" width="350"/>
 </div>
 ## Impactility 👋
 
